@@ -1,6 +1,5 @@
-
 for gapminderfile in [U-Z]*.txt
 do
     echo $gapminderfile
-    cut -f "$1,$2,$3" $gapminderfile | sort -"$5" | head -$4
+    cut -f 5 $gapminderfile | sort -n | tail -1;
 done

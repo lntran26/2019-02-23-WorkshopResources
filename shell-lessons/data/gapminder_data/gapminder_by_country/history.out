@@ -1,0 +1,323 @@
+    1  ssh
+    2  hpc.arizona.edu
+    3  ssh hpc.arizona.edu
+    4  ssh lnt@hpc.arizona.edu
+    5  git -- version
+    6  git --version
+    7  git clone git://github.com/alexdobin/STAR/releases/tag/2.6.1d
+    8  STAR
+    9  git clone https://github.com/alexdobin/STAR/tree/2.6.1d
+   10  /Users/linhtran/Downloads/Programs/STAR-2.6.1d/bin/MacOSX_x86_64/STAR ; exit;
+   11  /Users/linhtran/Downloads/Programs/STAR-2.6.1d/bin/MacOSX_x86_64/STAR ; exit;
+   12  ssh lnt@hpc.arizona.edu
+   13  ssh lnt@hpc.arizona.edu
+   14  ssh lnt@hpc.arizona.edu
+   15  ssh lnt@hpc.arizona.edu
+   16  ssh lnt@email.arizona.edu
+   17  ssh lnt@hpc.arizona.edu
+   18  ssh lnt@hpc.arizona.edu
+   19  ssh lnt@hpc.arizona.edu
+   20  ssh lnt@hpc.arizona.edu
+   21  cat 10-100A_IL2312-1_ATCACG_L002_R1_001.fastq.gz
+   22  10-100A_IL2312-1_ATCACG_L002_R1_002.fastq.gz
+   23  10-100A_IL2312-1_ATCACG_L002_R1_003.fastq.gz
+   24  10-100A_IL2312-1_ATCACG_L002_R1_004.fastq.gz
+   25  10-100A_IL2312-1_ATCACG_L002_R1_005.fastq.gz
+   26  10-100A_IL2312-1_ATCACG_L002_R1_006.fastq.gz
+   27  10-100A_IL2312-1_ATCACG_L002_R1_007.fastq.gz > 10-100A_IL2312-1_ATCACG_L002_R1_cat.fastq.gz
+   28  cat 10-100A_IL2312-1_ATCACG_L002_R1_001.fastq.gz
+   29  10-100A_IL2312-1_ATCACG_L002_R1_002.fastq.gz
+   30  10-100A_IL2312-1_ATCACG_L002_R1_003.fastq.gz
+   31  10-100A_IL2312-1_ATCACG_L002_R1_004.fastq.gz
+   32  10-100A_IL2312-1_ATCACG_L002_R1_005.fastq.gz
+   33  10-100A_IL2312-1_ATCACG_L002_R1_006.fastq.gz
+   34  10-100A_IL2312-1_ATCACG_L002_R1_007.fastq.g
+   35  cat 10-100A_IL2312-1_ATCACG_L002_R1_001.fastq.gz 10-100A_IL2312-1_ATCACG_L002_R1_002.fastq.gz 10-100A_IL2312-1_ATCACG_L002_R1_003.fastq.gz 10-100A_IL2312-1_ATCACG_L002_R1_004.fastq.gz 10-100A_IL2312-1_ATCACG_L002_R1_005.fastq.gz 10-100A_IL2312-1_ATCACG_L002_R1_006.fastq.gz 10-100A_IL2312-1_ATCACG_L002_R1_007.fastq.gz > 10-100A_IL2312-1_ATCACG_L002_R1_cat.fastq.gz
+   36  ssh lnt@hpc.arizona.edu
+   37  ssh lnt@hpc.arizona.edu
+   38  ssh lnt@hpc.arizona.edu
+   39  ssh lnt@hpc.arizona.edu
+   40  ssh lnt@hpc.arizona.edu
+   41  ssh lnt@hpc.arizona.edu
+   42  ssh lnt@hpc.arizona.edu
+   43  ssh lnt@hpc.arizona.edu
+   44  ssh lnt@hpc.arizona.edu
+   45  ssh lnt@hpc.arizona.edu
+   46  ssh lnt@hpc.arizona.edu
+   47  vi /Users/linhtran/OneDrive - University of Arizona/[Spring] Rotation 3 - Churko/Data/code.txt
+   48  cd /Users/linhtran/OneDrive - University of Arizona/[Spring] Rotation 3 - Churko/Data/
+   49  ls
+   50  cd /Users/linhtran
+   51  ls
+   52  cd "OneDrive - University of Arizona"
+   53  ls
+   54  cd "Rotation 3 - Churko"
+   55  cd "Rotation 3 - Churko"
+   56  cd "[Spring] Rotation 3 - Churko"
+   57  ls
+   58  cd Data
+   59  ls
+   60  vi code.txt
+   61  ssh lnt@hpc.arizona.edu
+   62  ssh lnt@hpc.arizona.edu
+   63  ssh lnt@hpc.arizona.edu
+   64  ssh lnt@hpc.arizona.edu
+   65  ssh lnt@hpc.arizona.edu
+   66  ssh lnt@hpc.arizona.edu
+   67  ssh lnt@hpc.arizona.edu
+   68  ssh lnt@hpc.arizona.edu
+   69  ssh lnt@hpc.arizona.edu
+   70  ssh lnt@hpc.arizona.edu
+   71  ssh lnt@hpc.arizona.edu
+   72  ssh lnt@hpc.arizona.edu
+   73  git --version
+   74  nano --version
+   75  nano
+   76  python --version
+   77  jupyter notebook
+   78  python --version
+   79  python 2.7
+   80  python2.7
+   81  jupyter notebook
+   82  ls -la
+   83  ls -l
+   84  ls 
+   85  pwd
+   86  ls -a
+   87  man cd
+   88  cd Documents/
+   89  cd ..
+   90  cd Documents/
+   91  cd ~
+   92  cd Documents/Adobe/
+   93  cd ..
+   94  cd Documents/Adobe/
+   95  cd Adobe/
+   96  cd ~
+   97  mkdir SDC_02-23-2019
+   98  ls -l
+   99  mkdir SDC_02-23-2019/repository
+  100  mkdir SDC_02-23-2019/repository/thesis
+  101  mkdir SDC_02-23-2019/repository/analyses
+  102  mkdir SDC_02-23-2019/repository/data
+  103  mkdir SDC_02-23-2019/repository/data/original
+  104  mkdir SDC_02-23-2019/repository/data/processed_data
+  105  cd SDC_02-23-2019/
+  106  cd repository
+  107  ls 
+  108  cd data/
+  109  ls
+  110  cd ~
+  111  cd SDC_02-23-2019/
+  112  ls -la repository/data/
+  113  nano
+  114  cd repository/
+  115  nano thesis.txt
+  116  ls -l
+  117  nano thesis.txt
+  118  nano thesis.txt
+  119  pwd
+  120  touch draft.txt
+  121  ls -l
+  122  nano draft.txt
+  123  mv draft.txt thesis/
+  124  ls -l thesis
+  125  ls
+  126  cp thesis.txt thesis/thesis_copy.txt
+  127  ls -l thesis
+  128  cd ~/SDC_02-23-2019/
+  129  git clone https://github.com/lntran26/2019-02-23-WorkshopResources.git
+  130  ls -l
+  131  pwd
+  132  cp -r 2019-02-23-WorkshopResources/shell-lessons/data/* repository/data/original_data/
+  133  ls
+  134  ls -la repository/data/original_data/
+  135  ls -l repository/data/original_data/
+  136  cd repository/
+  137  pwd
+  138  cat data/original_data/gapminder_data/gapminder_by_country/Afghanistan.cc.txt 
+  139  taile data/original_data/gapminder_data/gapminder_by_country/Afghanistan.cc.txt 
+  140  tail -1  data/original_data/gapminder_data/gapminder_by_country/Afghanistan.cc.txt 
+  141  head -1  data/original_data/gapminder_data/gapminder_by_country/Afghanistan.cc.txt 
+  142  wc data/original_data/gapminder_data/gapminder_by_country/Afghanistan.cc.txt 
+  143  wc -l data/original_data/gapminder_data/gapminder_by_country/Afghanistan.cc.txt 
+  144  pwd
+  145  cd data/original_data/gapminder_data/gapminder_by_country/
+  146  ls
+  147  cat country.cc.txt
+  148  mv country.cc.txt header.txt
+  149  cat header.txt
+  150  ls
+  151  cat header.txt
+  152  cat *.cc.txt
+  153  cat *.cc.txt | less
+  154  cat header.txt *.cc.txt >> ../../../processed_data//all_countries.txt
+  155  cd ~/SDC_02-23-2019/repository/data/processed_data/
+  156  ls -l
+  157  wc -l all_countries.txt
+  158  tail all_countries.txt
+  159  head all_countries.txt
+  160  cd ~/SDC_02-23-2019/
+  161  cd repository/data/processed_data/
+  162  cd ../../..
+  163  cd 2019-02-23-WorkshopResources/shell-lessons/data/gapminder_data/gapminder_by_country/
+  164  ls -l
+  165  nano Argentina.cc.txt 
+  166  git status
+  167  git add Argentina.cc.txt 
+  168  git status
+  169  git commit -m "
+  170  git commit -m "Fix data error in Argentina file"
+  171  git status
+  172  pwd
+  173  git log
+  174  ls
+  175  git config --global user.name "lntran26"
+  176  git config --global user.email "lnt@email.arizona.edu"
+  177  git log
+  178  cat Vietnam.cc.txt 
+  179  cp Vietnam.cc.txt Vietnam_copy.cc.txt
+  180  ls
+  181  git status
+  182  git add Vietnam_copy.cc.txt 
+  183  git status
+  184  git commite -m "Create a copy of Vietnam file"
+  185  git commit -m "Create a copy of Vietnam file"
+  186  git status
+  187  git log
+  188  git push
+  189  git push
+  190  cd ~
+  191  cd SDC_02-23-2019/
+  192  cd repository/
+  193  ls
+  194  cd data
+  195  ls
+  196  cd original_data/
+  197  ls
+  198  cd gapminder_data/
+  199  ls
+  200  cd gapminder_by_country/
+  201  ls
+  202  cat country.cc.txt
+  203  cat header.txt *.cc.txt | head -3
+  204  cd ../..
+  205  cd ..
+  206  cd ..
+  207  ls
+  208  mkdir scripts
+  209  ls
+  210  cp -r ~/SDC_02-23-2019/2019-02-23-WorkshopResources/shell-lessons/scripts/*
+  211  cp -r ~/SDC_02-23-2019/2019-02-23-WorkshopResources/shell-lessons/scripts/* scripts
+  212  ls
+  213  cd data/original_data/gapminder_data/gapminder_by_country/
+  214  wc -l *.txt
+  215  ls
+  216  wc Zimbabwe.cc.txt 
+  217  wc -l Zimbabwe.cc.txt 
+  218  wc -l *cc.txt
+  219  wc -l ../../../processed_data/all_countries.txt 
+  220  cat A*.txt
+  221  cat [YZ]*.txt
+  222  cat [W-Z]*.txt
+  223  cat header.txt
+  224  cut -f 2 Zimbabwe.cc.txt 
+  225  cut -f 5 Zimbabwe.cc.txt 
+  226  cut -f 5,6 Zimbabwe.cc.txt 
+  227  cut -f 3,5,6 Zimbabwe.cc.txt 
+  228  cut -f 2-4,6 Zimbabwe.cc.txt 
+  229  cut -f 5 Zimbabwe.cc.txt | sort -n
+  230  cut -f 5 Zimbabwe.cc.txt | sort -n -r
+  231  cut -f 5 Zimbabwe.cc.txt | sort -nr |head -2
+  232  ls | wc -l
+  233  grep "2007" [W-Z]*.txt
+  234  grep "2007" [L-P]*.txt
+  235  grep "\b2007\b" [L-P]*.txt
+  236  grep "\b2007\b" [L-P]*.txt | wc -l
+  237  grep "\b2007\b" *.txt | wc -l
+  238  ls *.txt | wc -l
+  239  cd ../../..
+  240  ls
+  241  cd original_data/
+  242  ls
+  243  cd ~
+  244  ls
+  245  cd SDC_02-23-2019/
+  246  ls
+  247  2019-02-23-WorkshopResources/
+  248  ls
+  249  cd 2019-02-23-WorkshopResources/
+  250  ls
+  251  shell_session_
+  252  cd shell-lessons/
+  253  ls
+  254  cd scripts/
+  255  for gapminderfile in [W-Z]*.txt; do   echo $gapminderfile; done
+  256  cd ../
+  257  ls
+  258  cd ../..
+  259  ls
+  260  cd 2019-02-23-WorkshopResources/
+  261  ls
+  262  cd shell-lessons/
+  263  ls
+  264  cd data/
+  265  ls
+  266  cd gapminder_data/gapminder_by_country/
+  267  for gapminderfile in [W-Z]*.txt; do   echo $gapminderfile; done
+  268  for gapminderfile in [W-Z]*.txt; do cut -f 5 $gapminderfile | head -1; done
+  269  for zfiles in Z*.txt; do wc $zfiles; done
+  270  cat ../../../scripts/loop_files.sh
+  271  bash ../../../scripts/loop_files.sh
+  272  cat ../../../scripts/loop_cut.sh
+  273  bash ../../../scripts/loop_cut.sh
+  274  ls ../../../scripts/
+  275  nano ../../../scripts/loop_cut_low.sh
+  276  bash ../../../scripts/loop_cut_low.sh
+  277  cat ../../../scripts/loop_cut_low.sh
+  278  cat ../../../scripts/loop_cut.sh
+  279  bash ../../../scripts/loop_cut_arg.sh 3
+  280  bash ../../../scripts/loop_cut_arg.sh 2
+  281  cat bash ../../../scripts/loop_cut_arg.sh
+  282  nano ../../../scripts/loop_cut_arg.sh
+  283  bash ../../../scripts/loop_cut_arg.sh 1 4
+  284  nano ../../../scripts/loop_cut_arg.sh
+  285  bash ../../../scripts/loop_cut_arg.sh 2 4 6
+  286  bash -x ../../../scripts/loop_cut_arg.sh 2 4 6
+  287  nano ../../../scripts/loop_cut_arg.sh
+  288  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4
+  289  nano ../../../scripts/loop_cut_arg.sh
+  290  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4
+  291  nano ../../../scripts/loop_cut_arg.sh
+  292  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 nr
+  293  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 r
+  294  nano ../../../scripts/loop_cut_arg.sh
+  295  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 r
+  296  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 nr
+  297  nano ../../../scripts/loop_cut_arg.sh
+  298  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 nr
+  299  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 r
+  300  nano ../../../scripts/loop_cut_arg.sh
+  301  cp x
+  302  nano ../../../scripts/loop_cut_arg.sh
+  303  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 r
+  304  bash ../../../scripts/loop_cut_arg.sh 1 2 3 4 nr
+  305  nano ../../../scripts/loop_conditional1.sh
+  306  bash ../../../scripts/loop_conditional1.sh 5 high
+  307  bash ../../../scripts/loop_conditional1.sh 5 low
+  308  cat ../../../scripts/loop_conditional1.sh
+  309  nano ../../../scripts/loop_cut_arg.sh
+  310  bash ../../../scripts/loop_cut_arg.sh 2 3 4 6 nr
+  311  bash ../../../scripts/loop_cut_arg.sh 2 3 4 6 n
+  312  cat ../../../scripts/loop_file.sh
+  313  cat ../../../scripts/loop_files.sh
+  314  nano ../../../scripts/loop_files.sh
+  315  bash ../../../scripts/loop_files_args.sh A*.txt
+  316  cat ../../../scripts/loop_files_args.sh
+  317  bash ../../../scripts/loop_files_args.sh [IJK]*.txt
+  318  cat ../../../scripts/loop_conditional1_commented.sh
+  319  cp ../../../scripts/loop_conditional1_commented.sh ../../../scripts/loop_shell_exercise.sh
+  320  nano ../../../scripts/loop_shell_exercise.sh
+  321  ls Z*.txt > Zfiles.out
+  322  cat Zfiles.out
+  323  history > history.out
